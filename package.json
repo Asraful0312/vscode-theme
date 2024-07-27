@@ -18,6 +18,10 @@
     "dark",
     "dark purple"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Asraful0312/vscode-theme.git"
+  },
   "contributes": {
     "themes": [
       {

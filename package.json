@@ -1,13 +1,22 @@
 {
-  "name": "asraful-dark-theme",
-  "displayName": "Asraful dark theme",
+  "name": "dev-bound-dark-purple",
+  "displayName": "Dev Bound dark purple",
   "description": "this is my theme",
   "version": "0.0.1",
+  "publisher": "AsrafulIslam",
   "engines": {
     "vscode": "^1.91.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "Dev Bound dark purple",
+    "dev bound dark purple",
+    "theme",
+    "vscode",
+    "dark",
+    "dark purple"
   ],
   "contributes": {
     "themes": [
@@ -17,5 +26,9 @@
         "path": "./themes/Dev bound dark theme-color-theme.json"
       }
     ]
+  },
+  "dependencies": {
+    "g": "^2.0.1",
+    "vsce": "^2.15.0"
   }
 }

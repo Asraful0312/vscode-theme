@@ -21,7 +21,7 @@ Dev Bound dark purple is a sleek, modern dark theme for Visual Studio Code, desi
 
 ## Screenshot
 
-![Asraful Dark Theme](https://github.com/Asraful0312/vscode-theme/blob/f231d551c25efc6ed7c18dd0b2fda55bdbbff8dc/Screenshot%202024-07-27%20164559.png)
+![Asraful Dark Theme](https://raw.githubusercontent.com/Asraful0312/vscode-theme/main/Screenshot%202024-07-27%20164559.png)
 
 ## Working with Markdown
 

@@ -2,7 +2,7 @@
   "name": "dev-bound-dark-purple",
   "displayName": "Dev Bound Dark Purple",
   "description": "This is dev bound dark purple theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "AsrafulIslam",
   "engines": {
     "vscode": "^1.91.0"

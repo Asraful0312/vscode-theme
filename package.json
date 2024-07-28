@@ -1,7 +1,7 @@
 {
   "name": "dev-bound-dark-purple",
-  "displayName": "Dev Bound dark purple",
-  "description": "this is my theme",
+  "displayName": "Dev Bound Dark Purple",
+  "description": "This is dev bound dark purple theme",
   "version": "0.0.1",
   "publisher": "AsrafulIslam",
   "engines": {
@@ -31,7 +31,7 @@
       }
     ]
   },
-  "icon": "./logo.png",
+  "icon": "logo.png",
   "dependencies": {
     "g": "^2.0.1",
     "vsce": "^2.15.0"
